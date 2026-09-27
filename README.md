@@ -1,6 +1,6 @@
 # AtomKV
 
-![AtomKV](https://socialify.git.ci/pulkitgarg04/AtomKV/image?font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Charlie+Brown&theme=Dark)
+![AtomKV](https://socialify.git.ci/pulkitgxrg/AtomKV/image?font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Charlie+Brown&theme=Dark)
 
 **AtomKV** is a lightweight in-memory key-value store featuring a simple text protocol over TCP (GET/SET/DEL/TTL/PERSIST), TTL support, LRU-based eviction, append-only file (AOF) persistence, and a minimal HTTP endpoint for metrics.
 
